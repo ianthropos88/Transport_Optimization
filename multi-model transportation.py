@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Mar 15 09:32:04 2018
-@author: Ken Huang
+@author: Partho Choudhury
 """
 from docplex.mp.model import Model
 from itertools import product
